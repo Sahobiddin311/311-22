@@ -1,1 +1,34 @@
-# 311-22
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titul sahifasi</title>
+</head>
+<body>
+    <header>
+        <h1>Assalomu alaykum, dunyo!</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Bosh sahifa</a></li>
+                <li><a href="#">Biz haqimizda</a></li>
+                <li><a href="#">Xizmatlar</a></li>
+                <li><a href="#">Aloqa</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Biz haqimizda</h2>
+            <p>Bu erda bizning kompaniya haqida qisqacha ma'lumot joylashadi.</p>
+        </section>
+        <section>
+            <h2>Xizmatlar</h2>
+            <p>Bu erda bizning taklif qilgan xizmatlarimiz ro'yxati joylashadi.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Bizning Kompaniya. Barcha huquqlar himoyalangan.</p>
+    </footer>
+</body>
+</html>
